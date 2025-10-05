@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonRed" parent="@style/Theme.Lab2">
+        <item name="backgroundTint">@android:color/holo_red_dark</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ButtonOrange" parent="@style/Theme.Lab2">
+        <item name="backgroundTint">@android:color/holo_orange_dark</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
