@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+
+    <string name="about_title">About</string>
+    <string name="about_name_id">Oleg Sanitskii — 101466133</string>
+
+    <string name="hours_hint">Hours worked</string>
+    <string name="rate_hint">Hourly rate ($)</string>
+    <string name="tax_hint">Tax rate (e.g. 0.15 or 15%)</string>
+    <string name="btn_calc">Calculate</string>
+    <string name="menu_about">About</string>
+
+    <string name="out_pay">Pay (base): $%1$.2f</string>
+    <string name="out_ot">Overtime pay: $%1$.2f</string>
+    <string name="out_total">Total pay: $%1$.2f</string>
+    <string name="out_tax">Tax (from base pay): $%1$.2f</string>
+
+    <string name="error_required">All fields are required</string>
+    <string name="error_numbers">Enter valid numbers</string>
+</resources>
