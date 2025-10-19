@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="student_line">Oleg Sanitskii — 101466133</string>
+    <string name="open_pressure">Open PressureActivity</string>
+    <string name="menu_pressure">Pressure</string>
+    <string name="no_sensor">No pressure sensor on this device</string>
+</resources>
